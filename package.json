@@ -1,0 +1,11 @@
+{
+    "name": "hello-node",
+    "version": "1.0.0",
+    "description": "This is my first project with Node.js learnt from industrial expert.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+  }
